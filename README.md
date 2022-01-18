@@ -37,18 +37,23 @@ I love writing code with Python, and I reckon I've become fairly competent with 
 My primary interests are definitely spaceflight, astronomy, and programming.
 <font size="1"><sup>I wonder how many of those were obvious</sup></font>
 
+Feel free to visit my [personal website](https://sk1y101.github.io/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
+
 ### Links
+<a href="https://sk1y101.github.io/">
+  <img height="60" src="https://simpleicons.org/icons/githubpages.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My personal website"/>
+</a>
 
 <a href="https://www.linkedin.com/in/jack-lloyd-walters/">
-  <img height="60" src="https://simpleicons.org/icons/linkedin.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
+  <img height="60" src="https://simpleicons.org/icons/linkedin.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My linkedin"/>
 </a>
 
 <a href="https://github.com/SK1Y101">
-  <img height="60" src="https://simpleicons.org/icons/github.svg" style="background: #181717; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
+  <img height="60" src="https://simpleicons.org/icons/github.svg" style="background: #181717; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My github"/>
 </a>
 
 <a href="https://gallery.fitbit.com/developer/2a6141ed-bacb-4d31-9ab6-4557e8cd80be">
-  <img height="60" src="https://simpleicons.org/icons/fitbit.svg" style="background: #00B0B9; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
+  <img height="60" src="https://simpleicons.org/icons/fitbit.svg" style="background: #00B0B9; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="my fitbit developer page"/>
 </a>
 
 ### Languages
