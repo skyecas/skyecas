@@ -37,24 +37,43 @@ I love writing code with Python, and I reckon I've become fairly competent with 
 My primary interests are definitely spaceflight, astronomy, and programming.
 <font size="1"><sup>I wonder how many of those were obvious</sup></font>
 
+Feel free to visit my [personal website](https://sk1y101.github.io/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
+
 ### Links
+<a href="https://sk1y101.github.io/">
+  <img height="60" src="https://simpleicons.org/icons/githubpages.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My personal website"/>
+</a>
 
 <a href="https://www.linkedin.com/in/jack-lloyd-walters/">
-  <img height="60" src="https://simpleicons.org/icons/linkedin.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
+  <img height="60" src="https://simpleicons.org/icons/linkedin.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My linkedin"/>
 </a>
 
 <a href="https://github.com/SK1Y101">
-  <img height="60" src="https://simpleicons.org/icons/github.svg" style="background: #181717; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
+  <img height="60" src="https://simpleicons.org/icons/github.svg" style="background: #181717; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My github"/>
 </a>
 
 <a href="https://gallery.fitbit.com/developer/2a6141ed-bacb-4d31-9ab6-4557e8cd80be">
-  <img height="60" src="https://simpleicons.org/icons/fitbit.svg" style="background: #00B0B9; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
+  <img height="60" src="https://simpleicons.org/icons/fitbit.svg" style="background: #00B0B9; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="my fitbit developer page"/>
 </a>
 
-### Languages
+<a href="https://orcid.org/0000-0003-2186-1582">
+  <img height="60" src="https://simpleicons.org/icons/orcid.svg" style="background: #181717; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My ORCID"/>
+</a>
+
+### Example Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK1Y101&repo=TransitProject&theme=algolia&border_radius=20)](https://github.com/SK1Y101/TransitProject)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK1Y101&repo=PoketchFitbit&theme=algolia&border_radius=20)](https://github.com/SK1Y101/PoketchFitbit)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skiylia-Lang&repo=PySkiylia&theme=algolia&border_radius=20)](https://github.com/Skiylia-Lang/PySkiylia)
+
+
+### Languages & Stats
 
 [![wakatime](https://wakatime.com/badge/user/83d59565-ae76-4745-b10d-0c9776c223f1.svg)](https://wakatime.com/@83d59565-ae76-4745-b10d-0c9776c223f1)
 
+<a target="_blank" href="https://www.openhub.net/accounts/SK1Y101?ref=sample"><img alt='Open Hub profile for SK1Y101' border='0' height='35' src='https://www.openhub.net/accounts/SK1Y101/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
+</a>
 
 <a href="https://www.python.org/">
   <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="background: #050f2c; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;"/>
@@ -82,19 +101,9 @@ My primary interests are definitely spaceflight, astronomy, and programming.
 
 ![Jacks's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=sk1y101&langs_count=10&layout=compact&theme=algolia&border_radius=20)
 
-### Example Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skiylia-Lang&repo=PySkiylia&theme=algolia&border_radius=20)](https://github.com/Skiylia-Lang/PySkiylia)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK1Y101&repo=PoketchFitbit&theme=algolia&border_radius=20)](https://github.com/SK1Y101/PoketchFitbit)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skiylia-Lang&repo=Verboscript&theme=algolia&border_radius=20)](https://github.com/Skiylia-Lang/Verboscript)
-
-### Stats for nerds
-
 <a href="https://wakatime.com/share/@SK1Y101/690de443-04bf-495e-80e4-fb157a010f0b.svg">
-  <img width="49.5%" align="left" src="https://wakatime.com/share/@SK1Y101/690de443-04bf-495e-80e4-fb157a010f0b.svg" style="background: black; border: 1px solid white; border-radius: 20px;"/>
+  <img width="45%" align="left" src="https://wakatime.com/share/@SK1Y101/690de443-04bf-495e-80e4-fb157a010f0b.svg" style="background: black; border: 1px solid white; border-radius: 20px;"/>
 </a>
 <a href="https://wakatime.com/share/@SK1Y101/4dd6a416-a811-48dd-94c7-0139829a8748.svg">
-  <img width="49.5%" align="right" src="https://wakatime.com/share/@SK1Y101/4dd6a416-a811-48dd-94c7-0139829a8748.svg" style="background: black; border: 1px solid white; border-radius: 20px;"/>
+  <img width="45%" align="right" src="https://wakatime.com/share/@SK1Y101/4dd6a416-a811-48dd-94c7-0139829a8748.svg" style="background: black; border: 1px solid white; border-radius: 20px;"/>
 </a>
