@@ -30,7 +30,7 @@ I'm Skye Owen-Lloyd-Walters, I'm one of those "programmer people" everyone likes
 
 ### About me
 
-I'm a masters student in the field of astrophysics, hopefully I can make that my full time career.
+I’m an associate software engineer for the [Metal as a Service](https://maas.io/) team at Canonical. I very recently graduated as First class master in Physics, Astronomy, and Cosmology at the University of Portsmouth.
 
 I love writing code with Python, and I reckon I've become fairly competent with it in the many years since 2011.
 
