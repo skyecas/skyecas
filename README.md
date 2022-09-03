@@ -37,10 +37,10 @@ I love writing code with Python, and I reckon I've become fairly competent with 
 My primary interests are definitely spaceflight, astronomy, and programming.
 <font size="1"><sup>I wonder how many of those were obvious</sup></font>
 
-Feel free to visit my [personal website](https://sk1y101.github.io/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
+Feel free to visit my [personal website](https://lloydwaltersj.com/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
 
 ### Links
-<a href="https://sk1y101.github.io/">
+<a href="https://lloydwaltersj.com/">
   <img height="60" src="https://simpleicons.org/icons/githubpages.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My personal website"/>
 </a>
 
