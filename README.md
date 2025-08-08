@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there!
 
-I'm [Skye/Skye Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/) (Gender is complex but so is code), I'm one of those "programmer people" everyone likes to ask for printer advice. Sometimes I write code that does stuff, most of the time that code is purely for my own entertainment.
+I'm [Skye/Jack Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/) (Gender is complex but so is code), I'm one of those "programmer people" everyone likes to ask for printer advice. Sometimes I write code that does stuff, most of the time that code is purely for my own entertainment.
 
 <font size="2">
   Disclaimer: I do not know anything about printers. or advice.
