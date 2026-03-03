@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there!
 
-I'm [Skye/Jack Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/) (Gender is complex but so is code), I'm one of those "programmer people" everyone likes to ask for printer advice. Sometimes I write code that does stuff, most of the time that code is purely for my own entertainment.
+I'm [Skye Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/), I'm one of those "programmer people" everyone likes to ask for printer advice. Sometimes I write code that does stuff, most of the time that code is purely for my own entertainment.
 
 <font size="2">
   Disclaimer: I do not know anything about printers. or advice.
@@ -26,7 +26,7 @@ I'm [Skye/Jack Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/) (Gender is comp
   </sup>
 </font>
 
-![Jacks's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1y101&show_icons=true&include_all_commits=true?count_private=true&theme=algolia&border_radius=20)
+![Skye's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1y101&show_icons=true&include_all_commits=true?count_private=true&theme=algolia&border_radius=20)
 
 ### About me
 
@@ -37,7 +37,7 @@ I love writing code with Python, and I reckon I've become fairly competent with 
 My primary interests are definitely spaceflight, astronomy, and programming.
 <font size="1"><sup>I wonder how many of those were obvious</sup></font>
 
-Feel free to visit my [personal website](https://lloydwaltersj.co.uk/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
+Feel free to visit my [personal website](https://sk1y101.github.com/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
 
 ### Links
 <a href="https://lloydwaltersj.com/">
