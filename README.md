@@ -44,7 +44,7 @@ Feel free to visit my [personal website](https://sk1y101.github.com/), I'll stea
   <img height="60" src="https://simpleicons.org/icons/githubpages.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My personal website"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jack-lloyd-walters/">
+<a href="https://www.linkedin.com/in/skye-owen-lloyd-walters/">
   <img height="60" src="https://simpleicons.org/icons/linkedin.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My linkedin"/>
 </a>
 
