@@ -1,5 +1,5 @@
 <!--
-**SK1Y101/sk1y101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skyecas/skyecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there!
 
-I'm [Skye Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/), I'm one of those "programmer people" everyone likes to ask for printer advice. Sometimes I write code that does stuff, most of the time that code is purely for my own entertainment.
+I'm [Skye Owen-Lloyd-Walters](https://skyecas.github.io/), I'm one of those "programmer people" everyone likes to ask for printer advice. Sometimes I write code that does stuff, most of the time that code is purely for my own entertainment.
 
 <font size="2">
   Disclaimer: I do not know anything about printers. or advice.
@@ -26,21 +26,21 @@ I'm [Skye Owen-Lloyd-Walters](https://lloydwaltersj.co.uk/), I'm one of those "p
   </sup>
 </font>
 
-![Skye's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk1y101&show_icons=true&include_all_commits=true?count_private=true&theme=algolia&border_radius=20)
+![Skye's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyecas&show_icons=true&include_all_commits=true?count_private=true&theme=algolia&border_radius=20)
 
 ### About me
 
-I’m a software engineer I for the [Metal as a Service](https://maas.io/) team at Canonical. Prior to that, I studied Physics, Astronomy, and Cosmology and the University of Portsmouth where I graduated with First class Masters.
+I’m a software engineer for the [Metal as a Service](https://maas.io/) team at Canonical. Prior to that, I studied Physics, Astronomy, and Cosmology and the University of Portsmouth where I graduated with First class Masters.
 
 I love writing code with Python, and I reckon I've become fairly competent with it in the many years since 2011.
 
 My primary interests are definitely spaceflight, astronomy, and programming.
 <font size="1"><sup>I wonder how many of those were obvious</sup></font>
 
-Feel free to visit my [personal website](https://sk1y101.github.com/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
+Feel free to visit my [personal website](https://skyecas.github.com/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
 
 ### Links
-<a href="https://lloydwaltersj.com/">
+<a href="https://skyecas.github.io/">
   <img height="60" src="https://simpleicons.org/icons/githubpages.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My personal website"/>
 </a>
 
@@ -48,7 +48,7 @@ Feel free to visit my [personal website](https://sk1y101.github.com/), I'll stea
   <img height="60" src="https://simpleicons.org/icons/linkedin.svg" style="background: #0A66C2; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My linkedin"/>
 </a>
 
-<a href="https://github.com/SK1Y101">
+<a href="https://github.com/skyecas">
   <img height="60" src="https://simpleicons.org/icons/github.svg" style="background: #181717; border: 1px solid white; border-radius: 20px; padding: 2px 2px 2px 2px;" alt="My github"/>
 </a>
 
@@ -65,6 +65,6 @@ A small (see: non-exhaustitive) collection of things I've done
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maas&repo=maas&theme=algolia&border_radius=20)]([https://github.com/SK1Y101/TransitProject](https://github.com/maas/maas))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK1Y101&repo=TransitProject&theme=algolia&border_radius=20)](https://github.com/SK1Y101/TransitProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=TransitProject&theme=algolia&border_radius=20)](https://github.com/SK1Y101/TransitProject)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SK1Y101&repo=PoketchFitbit&theme=algolia&border_radius=20)](https://github.com/SK1Y101/PoketchFitbit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=PoketchFitbit&theme=algolia&border_radius=20)](https://github.com/SK1Y101/PoketchFitbit)
