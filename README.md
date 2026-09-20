@@ -63,8 +63,8 @@ Feel free to visit my [personal website](https://skyecas.github.com/), I'll stea
 ### Example Repos
 A small (see: non-exhaustitive) collection of things I've done
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maas&repo=maas&theme=algolia&border_radius=20)]([https://github.com/SK1Y101/TransitProject](https://github.com/maas/maas))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maas&repo=maas&theme=algolia&border_radius=20)]([https://github.com/skyecas/TransitProject](https://github.com/maas/maas))
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=TransitProject&theme=algolia&border_radius=20)](https://github.com/SK1Y101/TransitProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=TransitProject&theme=algolia&border_radius=20)](https://github.com/skyecas/TransitProject)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=PoketchFitbit&theme=algolia&border_radius=20)](https://github.com/SK1Y101/PoketchFitbit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=PoketchFitbit&theme=algolia&border_radius=20)](https://github.com/skyecas/PoketchFitbit)
