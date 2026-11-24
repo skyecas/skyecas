@@ -30,14 +30,14 @@ I'm [Skye Owen-Lloyd-Walters](https://skyecas.github.io/), I'm one of those "pro
 
 ### About me
 
-I’m a software engineer for the [Metal as a Service](https://maas.io/) team at Canonical. Prior to that, I studied Physics, Astronomy, and Cosmology and the University of Portsmouth where I graduated with First class Masters.
+I’m a software engineer at [City Science](https://cityscience.com/), building energy-modelling Python software. Previously I was on the [Metal as a Service](https://maas.io/) team at Canonical. Prior to that, I studied Physics, Astronomy, and Cosmology at the University of Portsmouth where I graduated with First class Masters.
 
 I love writing code with Python, and I reckon I've become fairly competent with it in the many years since 2011.
 
 My primary interests are definitely spaceflight, astronomy, and programming.
 <font size="1"><sup>I wonder how many of those were obvious</sup></font>
 
-Feel free to visit my [personal website](https://skyecas.github.com/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
+Feel free to visit my [personal website](https://skyecas.github.io/), I'll steadily be adding anything of relevance there, as well as collating all of my projects
 
 ### Links
 <a href="https://skyecas.github.io/">
