@@ -63,7 +63,7 @@ Feel free to visit my [personal website](https://skyecas.github.io/), I'll stead
 ### Example Repos
 A small (see: non-exhaustitive) collection of things I've done
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maas&repo=maas&theme=algolia&border_radius=20)]([https://github.com/skyecas/TransitProject](https://github.com/maas/maas))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maas&repo=maas&theme=algolia&border_radius=20)](https://github.com/maas/maas)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skyecas&repo=TransitProject&theme=algolia&border_radius=20)](https://github.com/skyecas/TransitProject)
 
